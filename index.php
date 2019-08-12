@@ -26,10 +26,10 @@ div.c {
 
 
 <p style="text-align:center; font-family: Arial;font-size:20px;color:black;">
-<i><a href="https://github.com/megalodon287/pgmatarr/blob/master/photo1.php">p&nbsph&nbspo&nbspt&nbspo&nbsp&nbspo&nbspn&nbspe</a></i></p>
+<i><a href="photo1.php">p&nbsph&nbspo&nbspt&nbspo&nbsp&nbspo&nbspn&nbspe</a></i></p>
 <p style="text-align:center; font-family: Arial;font-size:20px;color:black;">
-<i><a href="https://github.com/megalodon287/pgmatarr/blob/master/photo2.php">p&nbsph&nbspo&nbspt&nbspo&nbsp&nbspt&nbspw&nbspo</a></i></p>
-<p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><i><a href="https://github.com/megalodon287/pgmatarr/blob/master/photo3.php">p&nbsph&nbspo&nbspt&nbspo&nbsp&nbspt&nbsph&nbspr&nbspe&nbspe</a></i></p>
+<i><a href="photo2.php">p&nbsph&nbspo&nbspt&nbspo&nbsp&nbspt&nbspw&nbspo</a></i></p>
+<p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><i><a href="photo3.php">p&nbsph&nbspo&nbspt&nbspo&nbsp&nbspt&nbsph&nbspr&nbspe&nbspe</a></i></p>
 
 
 
