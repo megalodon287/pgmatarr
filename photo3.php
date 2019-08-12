@@ -28,7 +28,7 @@ div.c {
 <br>
 <br>
 
-<p style="text-align:left; font-family: Arial;font-size:20px;color:black;"><left><a href="homepage.html"><i>back to home</i></p>
+<p style="text-align:left; font-family: Arial;font-size:20px;color:black;"><left><a href="index.php"><i>back to home</i></p>
 
 <br>
 <br>
