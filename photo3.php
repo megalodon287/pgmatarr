@@ -23,13 +23,16 @@ div.c {
 <br>
 <br>
 
-<center><img src="https://media0.giphy.com/media/3oz8xs1cEQHT7Ixlzq/giphy.gif" alt="W3Schools.com"style="width:500px;height:500px;"></center>
+<center><img src="https://media0.giphy.com/media/3oz8xs1cEQHT7Ixlzq/giphy.gif" style="width:500px;height:500px;"></center>
 
 <br>
 <br>
 
-<p style="text-align:left; font-family: Arial;font-size:20px;color:black;"><left><a href="file:///C:/Users/regin/Downloads/homepage.html"><i>back to home</i></p>
+<p style="text-align:left; font-family: Arial;font-size:20px;color:black;"><left><a href="homepage.html"><i>back to home</i></p>
 
 <br>
 <br>
+  
+  </body>
+  </html>
 
