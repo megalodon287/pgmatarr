@@ -26,9 +26,8 @@ div.c {
 <center><img src="https://media0.giphy.com/media/3oz8xs1cEQHT7Ixlzq/giphy.gif" style="width:500px;height:500px;"></center>
 
 <br>
-<br>
 
-<p style="text-align:left; font-family: Arial;font-size:20px;color:black;"><left><a href="index.php"><i>back to home</i></p>
+<p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><a href="index.php"><i>back to home</i></a></p>
 
 <br>
 <br>
