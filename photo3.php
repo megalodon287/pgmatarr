@@ -30,8 +30,8 @@ div.c {
 
 <br>
 
-<p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><a href="index.php"><i>back to home</i></a></p>
-
+<<p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><a href="index.php"><i>back to home</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="photo3.php"><i>next photo</i></a></p>
+ <p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><a href="login.php"><i>log out</i></a></p>
 <br>
 <br>
   
