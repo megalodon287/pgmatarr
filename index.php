@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +12,7 @@ div.c {
 
 </style>
 
-<body style="background-color:	#FFCC00;">
+<body style="background-color:#FFCC00;font-family:Arial">
 <br>
 <br>
 
@@ -30,6 +31,12 @@ div.c {
 <p style="text-align:center; font-family: Arial;font-size:20px;color:black;">
 <i><a href="photo2.php">p&nbsph&nbspo&nbspt&nbspo&nbsp&nbspt&nbspw&nbspo</a></i></p>
 <p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><i><a href="photo3.php">p&nbsph&nbspo&nbspt&nbspo&nbsp&nbspt&nbsph&nbspr&nbspe&nbspe</a></i></p>
+
+<br/>
+<br/>
+<br/>
+
+<center><a href="login.html"><i>l&nbspo&nbspg&nbsp&nbsp&nbspo&nbspu&nbspt</i></a></center>
 
 
 
