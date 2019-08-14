@@ -30,6 +30,8 @@ div.c {
 <br>
 
 <p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><a href="index.php"><i>back to home || </a><a href="photo2.php"><i>next photo</i></a></p>
+  <center><a href="login.html"><i>l&nbspo&nbspg&nbsp&nbsp&nbspo&nbspu&nbspt</i></a></center>
+
 
 </body>
 </html>
