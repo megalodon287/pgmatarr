@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Photo Gallery</title>
+<title>Photo Two</title>
 </head>
 <style>
 
