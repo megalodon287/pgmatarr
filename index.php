@@ -36,7 +36,7 @@ div.c {
 <br/>
 <br/>
 
-<center><a href="login.html"><i>l&nbspo&nbspg&nbsp&nbsp&nbspo&nbspu&nbspt</i></a></center>
+<center><a href="login.php"><i>l&nbspo&nbspg&nbsp&nbsp&nbspo&nbspu&nbspt</i></a></center>
 
 
 
