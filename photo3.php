@@ -13,8 +13,8 @@ div.c {
 
 <body style="background-color:	#FFCC00;">
   
- <br>
-<br>
+ <br/>
+<br/>
 
 <div class="c">
 <h1 style="text-align:center; font-family: Arial;font-size:41px;color:	#FA8072;"><i>m&nbspa&nbspt&nbspa&nbspr&nbsp&nbsp&nbspp&nbsph&nbspo&nbspt&nbspo&nbspg&nbspa&nbspl&nbspl&nbspe&nbspr&nbspy</i></h1>
@@ -23,17 +23,17 @@ div.c {
 <h1 style="text-align:center; font-family: Arial;font-size:41px;color:#20B2AA;"><i>m&nbspa&nbspt&nbspa&nbspr&nbsp&nbsp&nbspp&nbsph&nbspo&nbspt&nbspo&nbspg&nbspa&nbspl&nbspl&nbspe&nbspr&nbspy</i></h1>
 </div>
 
-<br>
-<br>
+<br/>
+<br/>
 
 <center><img src="https://media0.giphy.com/media/3oz8xs1cEQHT7Ixlzq/giphy.gif" style="width:500px;height:500px;"></center>
 
-<br>
+<br/>
 
-<<p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><a href="index.php"><i>back to home</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="photo3.php"><i>next photo</i></a></p>
+<p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><a href="index.php"><i>back to home</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<a href="photo3.php"><i>next photo</i></a></p>
  <p style="text-align:center; font-family: Arial;font-size:20px;color:black;"><a href="login.php"><i>log out</i></a></p>
-<br>
-<br>
+<br/>
+<br/>
   
   </body>
   </html>
